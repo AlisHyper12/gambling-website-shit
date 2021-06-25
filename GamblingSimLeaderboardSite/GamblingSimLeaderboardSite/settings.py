@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-g&=nkt*@z1a7-ws34-gatyhuxzd3v78yf%v!@&upsxqminznz_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['gambling-sim-website.herokuapp.com']
+ALLOWED_HOSTS = ['gambling-sim-website.herokuapp.com'], ['127.0.0.1']
 
 
 # Application definition
