@@ -1,1 +1,1 @@
-web: gunicorn GamblingSimLeaderboardSite.wsgi
+web: gunicorn GamblingSimLeaderboardSite.GamblingSimLeaderboardSite.wsgi
