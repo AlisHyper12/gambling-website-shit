@@ -12,6 +12,7 @@ future==0.18.2
 gevent==21.1.2
 gevent-websocket==0.10.1
 greenlet==1.1.0
+gunicorn==20.1.0
 keyboard==0.13.5
 mouse==0.7.1
 numpy==1.20.3
